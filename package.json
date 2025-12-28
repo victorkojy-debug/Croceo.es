@@ -1,5 +1,5 @@
 {
-  "name": "croceo-es",
+  "name": "croceo",
   "private": true,
   "scripts": {
     "dev": "next dev",
